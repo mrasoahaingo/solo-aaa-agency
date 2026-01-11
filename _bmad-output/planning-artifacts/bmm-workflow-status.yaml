@@ -25,7 +25,7 @@ workflow_status:
   # Phase 1: Analysis (Optional)
   brainstorm-project: optional
   research: optional
-  product-brief: recommended
+  product-brief: "_bmad-output/planning-artifacts/product-brief-solo-aaa-agency-2026-01-10.md"
   
   # Phase 2: Planning
   prd: required

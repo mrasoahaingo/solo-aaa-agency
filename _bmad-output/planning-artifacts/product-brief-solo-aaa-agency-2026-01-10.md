@@ -1,5 +1,5 @@
 ---
-stepsCompleted: [1, 2, 3, 4]
+stepsCompleted: [1, 2, 3, 4, 5]
 inputDocuments: []
 date: 2026-01-10
 author: Michael
@@ -808,3 +808,427 @@ solo-aaa-agency bridges the gap between AI capabilities and small business needs
 - Quarterly business reviews with clients showing metrics and ROI
 - Internal metrics tracking for agency operations
 - Continuous improvement based on metrics insights
+
+---
+
+## MVP Scope
+
+### Core Features
+
+#### 1. AI-Guided Consultation Process (MVP)
+
+**Essential Functionality:**
+- Structured discovery process using AI to understand business needs
+- Progressive consultation flow: Discovery (simple questions) → Clarification (AI proposes solutions) → Human escalation (if needed)
+- Human support visible from start - reassures that help is available
+- Non-technical, pedagogical approach suitable for low-tech users
+
+**MVP Scope:**
+- Basic AI consultation flow with predefined question sets
+- Simple escalation to human consultation (Michael or partner sales)
+- Pre-demo reassurance: Mini-demo or visual examples before LIVE demo
+- Consultation results feed into solution design
+
+**Out of Scope for MVP:**
+- Advanced AI consultation with deep learning from past consultations
+- Fully automated consultation without human option
+- Multi-language consultation (FR/EN handled at app level, not consultation level)
+
+---
+
+#### 2. LIVE Demo Capability (MVP)
+
+**Essential Functionality:**
+- Real-time demonstration of AI solution working
+- Sector-adaptable demo examples (restaurant, consultant, e-commerce, service business)
+- "Woah" moment creation: AI receives call, collects need, triggers processes, delegates/transfers
+
+**MVP Scope:**
+- One core demo scenario (phone call automation) adaptable to different sectors
+- Real-time demonstration showing AI workflow
+- Visual proof that solution works for their business context
+
+**Out of Scope for MVP:**
+- Multiple demo scenarios (focus on one proven scenario)
+- Fully automated demo without human presenter
+- Custom demo builder for different use cases
+
+---
+
+#### 3. Zero-Migration Integration (MVP)
+
+**Essential Functionality:**
+- Solutions integrate seamlessly into existing tools
+- No migration required - connects to what clients already use
+- Multiple integration methods available
+
+**MVP Scope:**
+- API/webhook integrations for common tools (CRM, email, calendar)
+- Basic n8n integration capability (internal n8n that communicates with agency APIs)
+- Integration support for standard business tools
+- Clear integration process with support for complex cases
+
+**Out of Scope for MVP:**
+- Custom integrations for every possible tool (focus on most common)
+- Fully automated integration without any setup
+- Enterprise-grade integration complexity (reserved for larger clients post-validation)
+
+---
+
+#### 4. Multi-User Dashboard & Access (MVP)
+
+**Essential Functionality:**
+- Team members can access AI tools via dashboard
+- License-based access control
+- Different user types: Passive users (benefit from automation) and Active users (configure workflows)
+
+**MVP Scope:**
+- Multi-user dashboard with license management
+- Basic user roles: Admin (business owner) and Team Member
+- Dashboard features:
+  - Task completion tracking
+  - Time saved visualization
+  - Cost savings reports
+  - Basic productivity metrics
+  - Progress indicators for automated workflows
+- Active users can monitor and see results
+- Passive users benefit from automation without direct interaction
+
+**Out of Scope for MVP:**
+- Advanced user permission system (beyond basic roles)
+- Custom workflow builder for active users (Agent Builder in v2)
+- Advanced analytics and reporting (basic metrics in MVP)
+
+---
+
+#### 5. Core Task Automation - Focus on 3 Solid Automations (MVP)
+
+**Essential Functionality:**
+- AI automates repetitive tasks 24/7
+- Focus on 3 core automation types that deliver immediate value
+
+**MVP Scope - 3 Core Automations:**
+
+1. **Phone Call Automation** (Primary "Woah" moment):
+   - AI receives calls
+   - Collects needs/requirements from callers
+   - Triggers necessary processes automatically
+   - Delegates tasks or transfers to human if needed
+   - Sector-adaptable (restaurant reservations, consultant inquiries, service appointments, etc.)
+
+2. **Email Management**:
+   - Email triage and prioritization
+   - Automatic responses to routine inquiries
+   - Email routing and delegation
+   - Integration with existing email systems
+
+3. **Calendar/Scheduling**:
+   - Calendar integration and appointment management
+   - Automatic scheduling based on availability
+   - Appointment confirmations and reminders
+   - Integration with existing calendar tools
+
+**Out of Scope for MVP:**
+- Additional automation types (focus on excelling at these 3)
+- Advanced AI capabilities requiring extensive training
+- Industry-specific automations (focus on universal business tasks)
+- Documentation automation (deferred to post-MVP)
+- Prospecting automation (deferred to post-MVP)
+- Advanced analysis automation (deferred to post-MVP)
+
+---
+
+#### 6. Metrics & ROI Tracking (MVP)
+
+**Essential Functionality:**
+- Users can see economic impact and productivity gains
+- Simulation/estimation tools
+- Dashboard metrics showing time saved, cost savings, ROI
+
+**MVP Scope:**
+- Pre-implementation simulation showing potential savings
+- Post-implementation comparison: actual vs. estimated savings
+- Basic dashboard metrics:
+  - Time saved tracking
+  - Cost savings visualization
+  - ROI calculation
+  - Task completion rates
+- Simple visual reports
+
+**Out of Scope for MVP:**
+- Advanced analytics and predictive metrics
+- Custom report builder
+- Integration with external analytics tools
+
+---
+
+#### 7. Internationalization (MVP)
+
+**Essential Functionality:**
+- Application available in French and English
+- Support for international clients from day one
+
+**MVP Scope:**
+- French and English language support for application interface
+- Basic localization for core features
+- Documentation in both languages
+
+**Future Enhancements:**
+- Additional languages
+- Regional customization beyond language
+- Localized support and consultation
+
+---
+
+### Out of Scope for MVP
+
+#### Explicitly Deferred Features
+
+**White-Label Applications - Version 2.0:**
+- White-label applications that clients can brand as their own
+- Advanced branding customization
+- Full white-label platform capabilities
+- **Rationale**: Focus MVP on proven solutions delivered by agency, validate market before building white-label platform. White-label adds significant complexity and can be added post-validation.
+
+**Agent Builder (Dust-like) - Version 2.0:**
+- Self-service agent builder platform
+- Users create and customize agents themselves
+- Advanced workflow customization tools
+- **Rationale**: Focus MVP on proven solutions delivered by agency, validate market before building self-service platform
+
+**Advanced Analytics & Reporting:**
+- Predictive analytics
+- Custom report builder
+- Advanced data visualization
+- **Rationale**: Basic metrics sufficient for MVP validation, advanced analytics can wait
+
+**Enterprise-Grade Features:**
+- Complex multi-tenant architecture
+- Advanced security and compliance features
+- Enterprise integration complexity
+- **Rationale**: Validate with small businesses first, then expand to larger enterprises
+
+**Industry-Specific Solutions:**
+- Vertical-specific automations
+- Industry-tailored workflows
+- **Rationale**: Focus on universal business tasks in MVP, expand to verticals after validation
+
+**Additional Automation Types:**
+- Documentation automation
+- Prospecting automation
+- Advanced analysis automation
+- **Rationale**: Focus on excelling at 3 core automations (calls, emails, scheduling) before expanding
+
+---
+
+### MVP Success Criteria
+
+#### Validation Metrics
+
+**Client Acquisition:**
+- **Target**: 5 clients to validate MVP
+- **Measurement**: Number of signed contracts within 3-month validation period
+- **Success Threshold**: 5 clients signed and onboarded
+
+**Client Satisfaction (100% Target):**
+- **Survey Post-Integration (1 month)**:
+  - Score of satisfaction 1-10, with minimum 8/10 for "satisfied"
+  - Measurement method: Online survey sent 1 month after integration
+  - Success threshold: All 5 clients score ≥ 8/10
+
+- **Qualitative Interview (3 months)**:
+  - Discussion on experience, benefits, improvements
+  - Measurement method: 30-minute interview with each client
+  - Success threshold: Positive feedback from all clients
+
+- **Net Promoter Score (NPS)**:
+  - "Would you recommend this solution?" Score minimum 8/10
+  - Measurement method: NPS survey at 3 months
+  - Success threshold: All clients score ≥ 8/10
+
+- **Renewal Rate**:
+  - 100% of clients renew their subscription after 3 months
+  - Measurement method: Subscription renewal tracking
+  - Success threshold: 100% renewal rate
+
+**ROI Achievement (100% Target):**
+- **Baseline Before Implementation**:
+  - Measure current operational costs (salary + charges for automated role)
+  - Measurement method: Client provides cost data before implementation
+  - Documented in client onboarding process
+
+- **Measurement After Implementation**:
+  - Actual costs with solution (installation + subscription)
+  - Measurement method: Dashboard tracking + billing records
+  - Comparison: Before vs. After costs
+
+- **ROI Calculation**:
+  - Formula: (Costs Before - Costs After) / Solution Cost × 100
+  - Success threshold: ROI ≥ 100% (savings ≥ solution cost) AND savings ≥ one salary equivalent
+
+- **Dashboard Validation**:
+  - Dashboard shows actual savings achieved
+  - Visual reports showing economic impact
+  - Success threshold: All clients see clear ROI in dashboard
+
+**Engagement Metrics:**
+- **Dashboard Usage**:
+  - Frequency: Regular logins per week/month
+  - Measurement: Dashboard login tracking
+  - Success indicator: Active dashboard usage from all clients
+
+- **Task Monitoring**:
+  - Active monitoring of automated tasks
+  - Measurement: Task completion tracking usage
+  - Success indicator: Clients actively follow task progress
+
+- **Expansion**:
+  - Clients adding more automations after initial setup
+  - Measurement: Additional automation requests
+  - Success indicator: Clients expand usage (positive signal)
+
+**Technical Metrics:**
+- **Uptime**:
+  - Target: 99%+ availability
+  - Measurement: Automated uptime monitoring
+  - Success threshold: 99%+ uptime over 3 months
+
+- **Task Success Rate**:
+  - Target: 95%+ success rate for automated tasks
+  - Measurement: Task completion tracking
+  - Success threshold: 95%+ of tasks completed successfully
+
+- **Error Rate**:
+  - Target: < 1% error rate
+  - Measurement: Error logging and tracking
+  - Success threshold: < 1% of tasks result in errors
+
+- **Support Tickets**:
+  - Target: < 2 tickets per client over 3 months
+  - Measurement: Support ticket tracking
+  - Success threshold: Minimal support needs indicate solution stability
+
+- **Integration Time**:
+  - Target: < 1 week average integration time
+  - Measurement: Time from contract signing to solution live
+  - Success threshold: Fast, smooth integration process
+
+#### Validation Timeline
+
+**MVP Validation Period: 3 months**
+
+**Month 1:**
+- Acquire and onboard first 2-3 clients
+- Initial integration and setup
+- First automations go live
+- Baseline metrics established
+
+**Month 2:**
+- Acquire remaining clients (total 5)
+- Monitor usage and engagement
+- Collect initial feedback
+- Measure initial ROI
+- Post-integration satisfaction survey (1 month mark)
+
+**Month 3:**
+- Full validation period
+- Comprehensive metrics review
+- Client satisfaction assessment (qualitative interviews)
+- ROI validation
+- NPS measurement
+- Renewal tracking
+- Go/No-Go decision for scaling
+
+#### Go/No-Go Decision Criteria
+
+**Proceed Beyond MVP If:**
+- ✅ 5 clients signed and onboarded
+- ✅ 100% client satisfaction achieved (all metrics met)
+- ✅ 100% ROI achievement (all clients save at least one salary equivalent)
+- ✅ High engagement and active usage
+- ✅ Technical stability and reliability confirmed (all technical metrics met)
+- ✅ Positive client testimonials and case studies
+- ✅ Clear path to 10 clients/month target
+
+**Iterate MVP If:**
+- ❌ Client satisfaction below 100% (any client below threshold)
+- ❌ ROI not achieved for all clients
+- ❌ Technical issues or reliability concerns
+- ❌ Low engagement or usage
+- ❌ Critical feature gaps identified
+
+---
+
+### Future Vision
+
+#### 2-3 Year Vision
+
+**Team & Organization:**
+- Expanded team (beyond solo entrepreneur)
+- Specialized roles: sales, support, development, operations
+- Scalable organizational structure
+
+**Product Excellence:**
+- More performant and robust solutions
+- Advanced AI capabilities and reliability
+- Continuous improvement driven by internal usage and client feedback
+- Win-win model: each improvement benefits all clients
+
+**Client Success:**
+- 100% client satisfaction maintained at scale
+- Strong retention and advocacy
+- Case studies and testimonials from satisfied clients
+- Referral network and partner ecosystem
+
+**Financial Growth:**
+- Growing NET revenue
+- Strong MRR/ARR growth
+- Path to $100M ARR vision
+- Sustainable unit economics
+
+**Market Expansion:**
+- **Geographic**: International expansion beyond France
+- **Segment**: Expansion to larger enterprises (validated approach)
+- **Vertical**: Industry-specific solutions and verticals
+- **Ecosystem**: Partner network, referral system, marketplace
+
+**Technical Evolution:**
+- **Scalability**: Ability to absorb more computational resources/power for larger enterprises with higher volumes
+- **Modularity**: Evolution from simple solution to 100% modular solution responding to all needs
+- **Platform**: Full platform capabilities with Agent Builder (v2), white-label applications, advanced customization, ecosystem integrations
+
+**Product Roadmap:**
+- **Version 2.0**: 
+  - Agent Builder (Dust-like) for self-service customization
+  - White-label applications platform
+  - Advanced analytics and reporting
+- **Version 3.0**: 
+  - Enterprise-grade features for larger clients
+  - Industry-specific solutions
+  - Advanced AI capabilities
+- **Platform**: 
+  - Full modular platform with marketplace and ecosystem
+  - International expansion with additional languages
+  - Partner network and referral system
+
+---
+
+### Scope Management
+
+**Scope Creep Prevention:**
+- Clear boundaries defined and communicated
+- Feature requests logged for future consideration
+- Regular scope reviews against MVP success criteria
+- Focus on validation metrics over feature additions
+
+**Future Feature Pipeline:**
+- **Version 2.0**: Agent Builder, White-label applications, Advanced analytics
+- **Version 3.0**: Enterprise features, Industry-specific solutions
+- **Platform**: Full modular platform, Marketplace, Ecosystem integrations
+- **Expansion**: Additional languages, Regions, Verticals
+
+**Balancing Act:**
+- MVP focuses on delivering core value quickly with 3 solid automations
+- Future vision inspires but doesn't distract from MVP
+- Clear path from MVP to full vision
+- Each enhancement builds on validated foundation
