@@ -71,8 +71,49 @@ solo-aaa-agency bridges the gap between AI capabilities and small business needs
 4. **Economic Value Proposition**: 
    - **Core Message**: "Libérez votre équipe des tâches répétitives pour la croissance"
    - **Pricing Model**: Installation fee (1000€ one-time) + Flexible subscription (500€/month) or usage-based model
-   - **ROI Example**: Standardist position (2000€/month + 600€ charges = 2600€/month) → Solution (1000€ + 500€/month = 7000€/year) = **24,200€/year liberated for reinvestment**
-   - **Positive Framing**: Not "replace employees" but "liberate team from repetitive tasks" and "reallocate budget toward growth"
+   - **ROI Examples** (all with positive framing of liberation and reallocation):
+     
+     **Example 1 - Standardist/Receptionist**:
+     - Current: Standardist (2000€/month + 600€ charges = 2600€/month = 31,200€/year)
+     - Solution: 1000€ installation + 500€/month = 7000€/year
+     - **Liberated budget**: 24,200€/year for reinvestment
+     - **Positive message**: "Transform your standardist into a client advisor - AI handles routine calls, your team focuses on complex client needs"
+     
+     **Example 2 - Administrative Assistant**:
+     - Current: Administrative assistant managing schedules, emails, data entry (2200€/month + 660€ charges = 2860€/month = 34,320€/year)
+     - Solution: 1000€ installation + 600€/month = 8200€/year
+     - **Liberated budget**: 26,120€/year for reinvestment
+     - **Positive message**: "Free your assistant from repetitive tasks - AI handles scheduling, email triage, and data entry, your assistant becomes your strategic coordinator"
+     
+     **Example 3 - Customer Service Level 1**:
+     - Current: Customer service agent handling FAQs and routine inquiries (1900€/month + 570€ charges = 2470€/month = 29,640€/year)
+     - Solution: 1000€ installation + 450€/month = 6400€/year
+     - **Liberated budget**: 23,240€/year for reinvestment
+     - **Positive message**: "Elevate your customer service - AI handles routine inquiries 24/7, your team focuses on complex issues and relationship building"
+     
+     **Example 4 - Data Entry Specialist**:
+     - Current: Data entry specialist (1800€/month + 540€ charges = 2340€/month = 28,080€/year)
+     - Solution: 1000€ installation + 400€/month = 5800€/year
+     - **Liberated budget**: 22,280€/year for reinvestment
+     - **Positive message**: "Automate data entry - AI handles transcription and form filling, your specialist becomes a data analyst focusing on insights"
+     
+     **Example 5 - Order Processing Manager**:
+     - Current: Order processing manager handling repetitive order entries (2100€/month + 630€ charges = 2730€/month = 32,760€/year)
+     - Solution: 1000€ installation + 550€/month = 7600€/year
+     - **Liberated budget**: 25,160€/year for reinvestment
+     - **Positive message**: "Streamline order processing - AI handles routine orders automatically, your manager focuses on exceptions and customer relationships"
+     
+     **Example 6 - Social Media Moderator**:
+     - Current: Community manager handling routine social media responses (1700€/month + 510€ charges = 2210€/month = 26,520€/year)
+     - Solution: 1000€ installation + 350€/month = 5200€/year
+     - **Liberated budget**: 21,320€/year for reinvestment
+     - **Positive message**: "Scale your social presence - AI handles routine comments and moderation, your community manager focuses on engagement strategy and content creation"
+   
+   - **Positive Framing**: All examples emphasize "liberation" and "reallocation" rather than "replacement":
+     - "Transform your team member into a strategic advisor"
+     - "Free your team from repetitive tasks"
+     - "Reallocate budget toward growth and innovation"
+     - "Elevate your team's role to higher-value work"
 
 5. **Internal Automation**: The agency operates with full automation, using the same proven AI solutions it sells to clients, creating a self-improving business model that validates solution quality.
 
@@ -95,10 +136,11 @@ solo-aaa-agency bridges the gap between AI capabilities and small business needs
    - "Réinvestissez les économies dans l'innovation"
 
 7. **Clear ROI Communication**: 
-   - Concrete examples: "Transform your standardist into a client advisor"
-   - Quantified savings: "Liberate 24,200€/year for reinvestment"
-   - ROI guarantee: "ROI in less than 1 month"
-   - Positive framing: "Investment that liberates your budget"
+   - Concrete examples across multiple roles: Standardist, Administrative Assistant, Customer Service, Data Entry, Order Processing, Social Media Management
+   - Quantified savings: Examples showing 20,000€-26,000€/year liberated for reinvestment per automated role
+   - ROI guarantee: "ROI in less than 1 month" across all examples
+   - Positive framing: "Investment that liberates your budget" and "Transform your team members into strategic advisors"
+   - Universal message: "AI handles repetitive tasks, your team focuses on what creates value"
 
 8. **Scalable Solo Model**: Full automation enables solo entrepreneur to scale to $100M revenue target without traditional agency overhead, demonstrating the power of AI-driven operations.
 
@@ -121,3 +163,107 @@ solo-aaa-agency bridges the gap between AI capabilities and small business needs
 - "Découvrez ce dont vous avez besoin" (Consultation)
 - "Choisissez votre niveau de personnalisation" (Delivery model)
 - "Intégrez sans effort" (Zero migration integration)
+
+---
+
+## Use Case Examples
+
+### Example 1: Standardist/Receptionist Transformation
+**Challenge**: Standardist spends 80% of time on routine calls (hours, basic information, appointment scheduling)
+
+**Solution**: AI handles routine calls 24/7, standardist focuses on complex inquiries and relationship building
+
+**Economic Impact**: 
+- Current cost: 2600€/month (31,200€/year)
+- Solution cost: 1000€ + 500€/month (7000€/year)
+- **Budget liberated**: 24,200€/year for reinvestment
+
+**Positive Outcome**: "Your standardist becomes a client advisor, focusing on high-value interactions while AI handles routine inquiries"
+
+---
+
+### Example 2: Administrative Assistant Liberation
+**Challenge**: Administrative assistant overwhelmed with scheduling, email triage, and repetitive data entry
+
+**Solution**: AI automates scheduling, email prioritization, and data entry, assistant becomes strategic coordinator
+
+**Economic Impact**:
+- Current cost: 2860€/month (34,320€/year)
+- Solution cost: 1000€ + 600€/month (8200€/year)
+- **Budget liberated**: 26,120€/year for reinvestment
+
+**Positive Outcome**: "Your assistant transitions from task executor to strategic coordinator, managing high-level coordination while AI handles routine operations"
+
+---
+
+### Example 3: Customer Service Elevation
+**Challenge**: Customer service team spends majority of time answering repetitive FAQs and routine inquiries
+
+**Solution**: AI handles routine inquiries 24/7, team focuses on complex issues and relationship building
+
+**Economic Impact**:
+- Current cost: 2470€/month (29,640€/year)
+- Solution cost: 1000€ + 450€/month (6400€/year)
+- **Budget liberated**: 23,240€/year for reinvestment
+
+**Positive Outcome**: "Your customer service team elevates to relationship managers, handling complex issues while AI provides instant 24/7 support for routine questions"
+
+---
+
+### Example 4: Data Entry to Data Analysis
+**Challenge**: Data entry specialist spends full time on transcription and form filling
+
+**Solution**: AI automates data entry and transcription, specialist becomes data analyst focusing on insights
+
+**Economic Impact**:
+- Current cost: 2340€/month (28,080€/year)
+- Solution cost: 1000€ + 400€/month (5800€/year)
+- **Budget liberated**: 22,280€/year for reinvestment
+
+**Positive Outcome**: "Your data specialist transitions from data entry to data analysis, generating insights while AI handles repetitive transcription and form filling"
+
+---
+
+### Example 5: Order Processing Streamlining
+**Challenge**: Order processing manager handles repetitive order entries and basic processing
+
+**Solution**: AI automates routine order processing, manager focuses on exceptions and customer relationships
+
+**Economic Impact**:
+- Current cost: 2730€/month (32,760€/year)
+- Solution cost: 1000€ + 550€/month (7600€/year)
+- **Budget liberated**: 25,160€/year for reinvestment
+
+**Positive Outcome**: "Your order manager becomes a relationship manager, handling exceptions and customer needs while AI processes routine orders automatically"
+
+---
+
+### Example 6: Social Media Scaling
+**Challenge**: Community manager spends majority of time on routine comment responses and basic moderation
+
+**Solution**: AI handles routine comments and moderation, manager focuses on engagement strategy and content creation
+
+**Economic Impact**:
+- Current cost: 2210€/month (26,520€/year)
+- Solution cost: 1000€ + 350€/month (5200€/year)
+- **Budget liberated**: 21,320€/year for reinvestment
+
+**Positive Outcome**: "Your community manager scales impact, focusing on strategic engagement and content creation while AI maintains 24/7 community presence"
+
+---
+
+### Common Patterns Across All Examples
+
+**Universal Benefits**:
+- **24/7 Availability**: AI never takes breaks, vacations, or sick days
+- **Consistent Quality**: No human errors, fatigue, or bad days
+- **Scalability**: Handles 10 or 1000 interactions without additional cost
+- **Team Elevation**: Team members transition to higher-value, more fulfilling work
+- **Budget Liberation**: 20,000€-26,000€/year liberated per role for reinvestment
+- **ROI**: Investment recovered in less than 1 month across all examples
+
+**Positive Messaging Framework**:
+- "Transform [role] into [elevated role]"
+- "AI handles [repetitive tasks], your team focuses on [high-value work]"
+- "Liberate [amount]€/year for reinvestment in [growth area]"
+- "Elevate your team's impact while AI handles routine operations"
