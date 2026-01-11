@@ -1,5 +1,5 @@
 ---
-stepsCompleted: [1, 2]
+stepsCompleted: [1, 2, 3]
 inputDocuments: []
 date: 2026-01-10
 author: Michael
@@ -163,6 +163,340 @@ solo-aaa-agency bridges the gap between AI capabilities and small business needs
 - "Découvrez ce dont vous avez besoin" (Consultation)
 - "Choisissez votre niveau de personnalisation" (Delivery model)
 - "Intégrez sans effort" (Zero migration integration)
+
+---
+
+## Target Users
+
+### Primary Users
+
+#### Persona 1: The Busy Business Owner (Primary Decision Maker)
+
+**Name & Context:**
+- **Name**: Sophie Martin (example persona)
+- **Role**: Owner/Director of small business (5-20 employees)
+- **Industry**: Various (retail, services, consulting, manufacturing)
+- **Technical Level**: Low - Uses ChatGPT occasionally but doesn't understand how it works
+- **Context**: Overwhelmed by daily operations, juggling multiple responsibilities, limited time for learning new technologies
+
+**Motivations & Goals:**
+- Reduce operational costs without sacrificing quality
+- Improve productivity and efficiency
+- Free up time for strategic work and growth
+- Avoid hiring additional staff
+- Stay competitive without being left behind by AI wave
+- Eliminate time-consuming, low-value tasks
+
+**Problem Experience:**
+- **Current State**: 
+  - Spends 60-70% of time on repetitive tasks (calls, emails, scheduling, documentation)
+  - Feels overwhelmed by AI hype but doesn't know where to start
+  - Tried generic AI solutions but they don't fit specific business needs
+  - No time to research, test, or understand new technologies
+  - Anxious about being left behind but paralyzed by complexity
+  - Uses ChatGPT occasionally but doesn't see how to integrate it into daily operations
+
+- **Workarounds**:
+  - Manual processes for everything
+  - Hiring part-time help for repetitive tasks
+  - Working longer hours to handle everything
+  - Ignoring AI opportunities due to lack of understanding
+
+- **Emotional Impact**:
+  - Frustration with time wasted on low-value tasks
+  - Anxiety about AI wave approaching
+  - Overwhelm from juggling too many responsibilities
+  - Fear of falling behind competitors
+  - Desire to focus on what creates value but stuck in operations
+
+**Success Vision:**
+- "This is exactly what I needed!" moment during LIVE demo ("Woah" effect)
+- Clear understanding of how AI solves their specific problems
+- Immediate relief from repetitive tasks
+- Confidence that AI is working 24/7 for them
+- Ability to focus on strategic growth and high-value work
+- Measurable cost savings and productivity improvements
+- Peace of mind knowing they're not missing out on AI opportunities
+
+**Key Characteristics:**
+- Needs high level of pedagogy and guidance
+- Prefers visual demonstrations over technical explanations
+- Values simplicity and ease of use
+- Wants to see immediate results
+- Needs reassurance and support throughout adoption
+- Makes decisions based on ROI and time savings
+
+**User Segmentation:**
+- **Early Adopter**: Enthusiastic about AI, quick to adopt, values innovation
+- **Skeptic**: Cautious, needs more proof, requires testimonials and case studies
+- **Simple Case**: Standard integration, straightforward needs
+- **Complex Case**: Custom integration, specific requirements, needs more technical support
+
+---
+
+#### Persona 2: The Team Member (Secondary User)
+
+**Name & Context:**
+- **Name**: Thomas Dubois (example persona)
+- **Role**: Team member in small business (various roles: admin, sales, customer service, operations)
+- **Access**: Licensed user with access to AI tools via dashboard
+- **Technical Level**: Varies (low to intermediate)
+- **Context**: Benefits from AI automation but may also interact with AI tools directly
+
+**User Types:**
+- **Passive Users**: Benefit from automation without direct interaction (AI works in background, they see results)
+- **Active Users**: Use dashboard to configure, customize, or monitor AI workflows
+
+**Motivations & Goals:**
+- Reduce repetitive workload
+- Focus on high-value, creative, or relationship-building work
+- Improve work-life balance
+- Learn and grow with AI tools
+- Contribute to company efficiency
+
+**Problem Experience:**
+- **Current State**:
+  - Spends significant time on repetitive tasks assigned by management
+  - Feels underutilized doing low-value work
+  - Wants to contribute more strategically but stuck in operations
+  - May be concerned about job security but also sees opportunity to elevate role
+
+- **Success Vision**:
+  - AI handles routine tasks, freeing them for strategic work
+  - Role evolves from task executor to strategic contributor
+  - Access to AI tools via dashboard empowers them to automate their own workflows
+  - Clear path for professional growth and skill development
+
+**Key Characteristics:**
+- May need training and support to use AI tools effectively
+- Benefits from seeing how AI transforms their daily work
+- Values tools that integrate seamlessly into existing workflows
+- Wants to understand how to leverage AI for their specific role
+
+---
+
+### Secondary Users
+
+#### Persona 3: The Technical Contact (Optional)
+
+**Name & Context:**
+- **Role**: IT contact or tech-savvy team member (if exists in small business)
+- **Purpose**: May assist with integration or technical questions
+- **Note**: Not all small businesses have this role - solution must work without technical expertise
+- **Key Concern**: Integration complexity, technical feasibility
+- **Value**: Technical validation and support during complex integrations
+
+---
+
+#### Persona 4: The Financial Decision Influencer
+
+**Name & Context:**
+- **Role**: CFO, accountant, or financial advisor
+- **Purpose**: Influences budget decisions and ROI validation
+- **Key Concern**: Financial justification and cost savings
+- **Value**: Clear ROI calculations and budget liberation metrics
+- **Decision Influence**: Validates financial viability before final decision
+
+---
+
+#### Persona 5: The Influencer/Recommender
+
+**Name & Context:**
+- **Role**: Accountant, business advisor, consultant, or partner
+- **Purpose**: Recommends solution to business owners
+- **Key Concern**: Trusted advisor relationship, client success
+- **Value**: Sees ROI potential and recommends to clients
+- **Journey**: May have separate discovery path (partner program, referral incentives)
+
+---
+
+### User Journey
+
+#### Journey Stage 1: Discovery
+
+**Channels:**
+- **Prospecting**: Direct outreach from solo-aaa-agency
+- **Social Media**: LinkedIn, Facebook, industry groups
+- **Email Marketing**: Targeted campaigns to small business owners
+- **Referrals**: Word-of-mouth from satisfied clients or influencers (accountants, advisors)
+
+**Experience:**
+- Receives message/content about AI solutions for small businesses
+- Sees value proposition: "Libérez votre équipe des tâches répétitives"
+- Initial interest but skepticism about complexity and cost
+- Key message resonates: "Zero migration, intégration dans vos outils existants"
+
+**Emotional State**: Curious but cautious, overwhelmed by AI hype
+
+**Segmentation Impact**:
+- **Early Adopter**: Engages immediately, asks questions, ready to learn more
+- **Skeptic**: Needs more proof, looks for testimonials, case studies, social proof
+
+---
+
+#### Journey Stage 2: Pre-Demo Reassurance (NEW)
+
+**Experience:**
+- **Mini-demo or visual examples** before LIVE demo
+- Shows how solution works in different business contexts
+- Addresses common concerns (complexity, integration, reliability)
+- Provides reassurance about zero-migration approach
+- Shows testimonials or case studies relevant to their industry
+
+**Key Moment**: "This looks simpler than I thought" - reduces anxiety before commitment
+
+**Emotional State**: Less anxious, more curious, ready to see LIVE demo
+
+---
+
+#### Journey Stage 3: First Contact & Consultation
+
+**Experience:**
+- Engages with AI-guided consultation process
+- Answers simple, non-technical questions about business needs
+- AI proposes potential solutions based on responses
+- Option to escalate to human consultation (Michael or partner sales)
+- Human support visible from start - reassures that help is available
+
+**Key Moment**: "This is easier than I thought" - consultation feels approachable, not intimidating
+
+**Emotional State**: Relieved that process is simple, still cautious about commitment
+
+---
+
+#### Journey Stage 4: LIVE Demo - The "Woah" Moment
+
+**Experience:**
+- **Critical Moment**: LIVE demonstration of AI solution
+- **Example Scenario**: 
+  - AI receives phone call
+  - AI collects need/requirement from caller
+  - AI triggers necessary processes automatically
+  - AI delegates tasks or transfers to human if needed
+  - All happens in real-time during demo
+
+**Demo Adaptability:**
+- **Sector-Specific Examples**: 
+  - Restaurant: Table reservation automation
+  - Consultant: Client inquiry handling
+  - E-commerce: Order processing automation
+  - Service business: Appointment scheduling
+- Demo tailored to prospect's specific business context
+
+**The "Woah" Effect:**
+- "C'est ça ce dont j'ai besoin!" moment
+- Immediate understanding of how AI solves their specific problem
+- Visual proof that it works for their business
+- Realization that AI can handle complex workflows automatically
+- Confidence that solution is practical, not theoretical
+
+**Emotional State**: Excited, convinced, ready to move forward
+
+**Key Success Factor**: LIVE demo must be relevant to their specific business context and sector
+
+---
+
+#### Journey Stage 5: Onboarding & Integration
+
+**Experience:**
+- Zero-migration integration into existing tools
+- Solutions connect to current systems (CRM, email, calendar, etc.)
+- Team members receive licenses and dashboard access
+- Training provided (pedagogical approach, not technical)
+- AI starts working 24/7 immediately
+
+**Complex Integration Support:**
+- For complex cases: Additional technical support available
+- Custom integration solutions when needed
+- Clear communication about integration timeline and process
+- Reassurance about reliability and supervision
+
+**Key Moment**: "It's already working!" - AI handles first tasks automatically
+
+**Emotional State**: Relieved, impressed, beginning to trust the solution
+
+---
+
+#### Journey Stage 6: Daily Usage & Value Realization
+
+**Experience:**
+- **24/7 Operation**: AI works continuously without supervision
+- **Task Automation**: 
+  - Calls handled automatically
+  - Customer service inquiries resolved
+  - Email management and prioritization
+  - Calendar scheduling
+  - Documentation creation
+  - Prospecting activities
+  - Data analysis and reporting
+
+- **Team Elevation**: Team members transition from repetitive tasks to strategic work
+- **Dashboard Access**: 
+  - Active users configure and customize workflows
+  - Passive users benefit from automation results
+  - Both see value in their daily work
+
+- **Success Measurement**:
+  - Simple metrics and visual reports
+  - Time saved tracking
+  - Cost savings visualization
+  - Productivity improvements
+  - Internal testimonials from team members
+
+**Key Moments**:
+- First week: "I have more time for important work"
+- First month: "We're more efficient and productive"
+- Ongoing: "This is how we work now" - becomes natural part of operations
+
+**Emotional State**: Confident, efficient, focused on growth
+
+---
+
+#### Journey Stage 7: Long-term Success & Expansion
+
+**Experience:**
+- Measurable ROI: Budget liberated for reinvestment
+- Team satisfaction: Employees happier focusing on high-value work
+- Business growth: Can scale without proportional cost increase
+- Solution expansion: Adds more AI automations as needs evolve
+- Becomes advocate: Refers other businesses or becomes influencer
+
+**Key Moment**: "This transformed how we operate" - AI becomes essential to business success
+
+**Emotional State**: Grateful, successful, confident in future
+
+---
+
+### User Journey Summary
+
+**Critical Path to Success:**
+1. **Discovery** → Simple, clear value proposition
+2. **Pre-Demo Reassurance** → Mini-demo, visual examples, testimonials
+3. **Consultation** → Approachable, non-technical process
+4. **LIVE Demo** → "Woah" moment with relevant, sector-specific example
+5. **Integration** → Zero migration, seamless connection (with support for complex cases)
+6. **Daily Usage** → 24/7 operation, team elevation, success measurement
+7. **Long-term** → Measurable ROI, business transformation, advocacy
+
+**Key Success Factors:**
+- High level of pedagogy throughout journey
+- Visual demonstrations over technical explanations
+- Pre-demo reassurance to reduce anxiety
+- Immediate value demonstration (LIVE demo) adapted to sector
+- Zero-migration integration with support for complex cases
+- 24/7 operation that works without supervision
+- Clear ROI and cost savings with visual measurement
+- Team elevation messaging (not replacement)
+- Reliability and supervision communication
+
+**Pain Points to Address:**
+- Technical complexity anxiety → Simple, pedagogical approach + pre-demo reassurance
+- Time constraints → Quick consultation, fast integration
+- Fear of AI → Reassurance, human support always available, reliability messaging
+- Cost concerns → Clear ROI and budget liberation with visual metrics
+- Integration fears → Zero migration promise + support for complex cases
+- Sector-specific needs → Adaptable demo and examples
+- Success validation → Simple metrics and visual reports
 
 ---
 
